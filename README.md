@@ -1,8 +1,11 @@
 # SuperSlash-DSE-Tool
 SuperSlash Design Space Exploration (DSE) Tool
-For further details
+
+For further details:
 https://ieeexplore.ieee.org/document/9211496
 
+For a detailed Demo:
+https://youtu.be/yR4EEmKlLK0
 
 
 If you find this stuff useful please Cite as:
